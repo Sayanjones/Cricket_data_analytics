@@ -1,5 +1,6 @@
 # Cricket_data_analytics
-<li>End To End Cricket Data Analytics Project Using Web Scraping, Python, Pandas and Power BI
+### End To End Cricket Data Analytics Project Using Web Scraping, Python, Pandas and Power BI
+  
 <li>T20 World Cup Cricket Data Analytics
 <li>Performed data analytics on T20 world cup cricket (2022) data to build a team of dream 11 players
 <li>Presented the project to state level cricket academy and won the first prize
