@@ -5,4 +5,3 @@
 <li>Employed Matplotlib and Seaborn for data visualisation, offering preliminary insights into player performance and team dynamics. 
 <li>Developed an interactive dashboard using Power BI, providing stakeholders with dynamic insights into the players. 
 
-```satan```
